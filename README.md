@@ -15,3 +15,5 @@ reducing energy consumption and costs.
 - Predictive Maintenance: Data collected by the system can be used for predictive
 maintenance. By analyzing trends in temperature and humidity readings, potential
 issues can be identified and addressed before they become major problems.
+
+Demo Link: https://www.youtube.com/watch?v=jCYXgjibJdw&t=8s
